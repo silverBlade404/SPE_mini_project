@@ -61,4 +61,11 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <distributionManagement>
+        <repository>
+            <id>SPE_mini_project</id>
+            <url>https://github.com/silverBlade404/SPE_mini_project</url>
+        </repository>
+    </distributionManagement>
+
 </project>
