@@ -20,7 +20,7 @@ pipeline {
         }
         stage('Build Maven jar package') {
             steps {
-                dir("src/") {
+                dir("") {
                     script{
                         sh 'mvn clean install'
                     }

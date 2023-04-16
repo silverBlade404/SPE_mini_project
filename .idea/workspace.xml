@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1207156-d5fd-4c35-ab46-bfdc33e73ab3" name="Changes" comment="">
+    <list default="true" id="f1207156-d5fd-4c35-ab46-bfdc33e73ab3" name="Changes" comment="updated jenkinsfile">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator.log" beforeDir="false" afterPath="$PROJECT_DIR$/calculator.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playbook.yml" beforeDir="false" afterPath="$PROJECT_DIR$/playbook.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +102,21 @@
       <option name="presentableId" value="Default" />
       <updated>1679429556576</updated>
     </task>
+    <task id="LOCAL-00001" summary="updated jenkinsfile &#10;updated playbook">
+      <created>1681601478417</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681601478417</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated jenkinsfile">
+      <created>1681614686162</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681614686162</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,5 +129,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated jenkinsfile &#10;updated playbook" />
+    <MESSAGE value="updated jenkinsfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated jenkinsfile" />
   </component>
 </project>
